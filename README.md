@@ -1,1 +1,1 @@
-# Archive: Basic MaxEnt from Scratch
+# Archive: Basic MaxEnt Decoder from Scratch
