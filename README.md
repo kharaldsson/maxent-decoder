@@ -1,1 +1,1 @@
-# Archive: Basic MaxEnt Decoder from Scratch
+# Archive: Basic MaxEnt Decoder from Scratch (Mallet Trainer)
